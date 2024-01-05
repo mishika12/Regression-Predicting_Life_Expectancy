@@ -1,4 +1,4 @@
-### <ins>Predicting the Life Expectancy of a Country using Multiple Linear Regression
+### Predicting the Life Expectancy of a Country using Multiple Linear Regression
 
  ### <ins> Problem Statement
 The aim of the analysis is to explore how immunization factors, mortality factors, economic factors, social factors and other health related factors affect Life expectancy of a country.
